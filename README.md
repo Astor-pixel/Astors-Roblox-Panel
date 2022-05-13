@@ -1,3 +1,3 @@
 # Astors-Roblox-Panel
-Before usiing this turn of real time protector
+Before using this turn of real time protector
 ------------------------------------------------------------------------
