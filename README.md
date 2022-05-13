@@ -41,7 +41,7 @@ Credits:
 
 Programmer / Astor
 
-Designer / IX
+Designer / Istxrzz
 
 Idea / Cosmic
 
