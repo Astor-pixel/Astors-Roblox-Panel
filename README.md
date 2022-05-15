@@ -1,10 +1,5 @@
 FIND THE DOWNLOAD AT RELEASES
 ---------------
-Builder Preview
----------------
-![image](https://user-images.githubusercontent.com/98480088/168488226-8184d067-2446-4a59-9595-34553f5e111f.png)
-![image](https://user-images.githubusercontent.com/98480088/168488264-1d6b392e-3599-42cb-a6b8-17bb4d6b19c4.png)
-
 
 
 Astors Beaming Panel
